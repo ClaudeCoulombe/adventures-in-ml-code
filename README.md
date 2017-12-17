@@ -4,6 +4,9 @@ In this tutorial, we will try to build a GAN that is able to generate human face
 
 This repository contains source code corresponding to our article ["Deep Convolutional Generative Adversarial Networks with TensorFlow"](https://www.oreilly.com/ideas/deep-convolutional-generative-adversarial-networks-with-tensorflow).
 
+> *** Note ***:<br/>
+> The derived Jupyter Notebook «DCGANs_with_Tensorflow_extended.ipynb» is a small contribution <br/> by Claude COULOMBE, PhD candidate, TÉLUQ / UQAM - Montreal.
+
 ## Setup
 
 ### Download via Git
